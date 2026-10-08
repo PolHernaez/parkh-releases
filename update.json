@@ -1,8 +1,8 @@
 {
-  "minRequired": "0.4",
+  "minRequired": "0.7",
   "message": {
-    "ca": "La v0.3 no desava bé alguns canvis (Ja tinc el cotxe, el tancat, la zona, la nota, la foto i la veu). La v0.4 ho arregla i permet tenir més d'un cotxe.",
-    "es": "La v0.3 no guardaba bien algunos cambios (Ya tengo el coche, el cerrado, la zona, la nota, la foto y la voz). La v0.4 lo arregla y permite tener más de un coche.",
-    "en": "v0.3 didn't save some changes properly (I've got the car, locked, zone, note, photo and voice). v0.4 fixes it and supports more than one car."
+    "ca": "Les versions anteriors no desaven bé alguns canvis i, de vegades, no deixaven actualitzar. Aquesta ho arregla, permet tenir més d'un cotxe i l'app passa a dir-se ParkH.",
+    "es": "Las versiones anteriores no guardaban bien algunos cambios y, a veces, no dejaban actualizar. Esta lo arregla, permite tener más de un coche y la app pasa a llamarse ParkH.",
+    "en": "Earlier versions didn't save some changes properly and sometimes wouldn't update. This one fixes it, supports more than one car, and the app is now called ParkH."
   }
 }
